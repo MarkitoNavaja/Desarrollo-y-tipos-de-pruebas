@@ -14,4 +14,6 @@ Tipos de pruebas
     Durante las pruebas unitarias y de integración se realizarán las pruebas de aceptación para corroborar que todo el sistema funciona según lo esperado.
    5.Pruebas de estrés:
     Antes de dar por finalizado el proceso de desarrollo de una software es necesario comprobar cuánta tensión puede soportar antes de que se produzca algún error. Para ello, se envía mucha más información de lo habitual para comprobar en qué punto se satura el sistema.
-   
+  Como se puede observar de acuerdo a la investigacion pasada es necesario hacer pruebas para determinar si el software es funcional y existen un sin fin de pruebas para ello,se debe buscar el metodo mas adecuado para cada software que logre satisfacer la nacesidad.
+  Es de vital importancia realizar estas pruebas dado que antes que salga al live el software debe tener la menor cantidad de errores para lograr fixearlos en tiempos cortos.
+  
