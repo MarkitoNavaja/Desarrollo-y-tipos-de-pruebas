@@ -1,3 +1,6 @@
+Marco Fonseca
+David Garzon Contreras
+Felipe Alzate
 # PATRONES GOF
   El diminutivo "GOF significa "Ganf of Four" que traducido al español significa "La banda de los cuatro" que esta conformado por Ralph Jhonson, Erich
   Gamma, Richard Helm, John Vlisides, estas 4 personas escriben un libro hacerca de los patrones de diseño en 1987 y apartir de 1990 los patrones tuvieron
