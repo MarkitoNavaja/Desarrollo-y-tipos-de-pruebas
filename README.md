@@ -18,15 +18,18 @@
   ## ¿Como usarlos?
   
   1. tenemos que identificar cual es el problema al cual el patron utilizado se va a ejecutar. 
-  2. Conocer la solución generica que propone ese pat4ron para la problematica
+  2. Conocer la solución generica que propone ese patron para la problematica
   3. Evaluar la posibilidad de si vamos a aplicar el patron a nuestro problema
   4. Adaptar esa solucion generica del patron a nuestro problema especifico (cambiar los nombres de las clases, revisar metodos e implementar los
   metodos necesarios a nuestra solución.
   
   ## Plantilla para documentar y leer un patrón.
   
-  Nombre del patron: Algo que debemos recordar para poder comunicarnos de manera efectiva.
-  El problema a resolver: Esto nos ayuda para saber cuando aplicar el patron, se describe el problema o el contexto en el cual nos vamos a encontrar ese problema 
+  1. Nombre del patron: Algo que debemos recordar para poder comunicarnos de manera efectiva.
+  2. El problema a resolver: Esto nos ayuda para saber cuando aplicar el patron, se describe el problema o el contexto en el cual nos vamos a encontrar ese problema.
+  3. Solucion prevista: Escribir los elementos que conforman el diseño atravez de una descripción de ese problema y como se va a organizar las clases y objetos
+  para resolver el problema en la solucion propuesta del patron.
+  4. Consecuencias (Buenas o Malas): Se habla del impacto que peude tener ese patron al aplicarlo.
 # Pruebas de software
    Las pruebas de software permiten controlar la calidad y funcionalidad de cualquier producto que se desarrolle; son la mejor garantía de que este no 
    presenta fallos y se comporta adecuadamente,Las pruebas de software son el mejor método para confirmar la funcionalidad del producto que se está 
