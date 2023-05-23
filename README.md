@@ -63,4 +63,19 @@
     fin de pruebas para ello,se debe buscar el metodo mas adecuado para cada software que logre satisfacer la nacesidad.
     Es de vital importancia realizar estas pruebas dado que antes que salga al live el software debe tener la menor cantidad de errores para lograr 
     fixearlos en tiempos cortos.
+ ## METODOLOGIA PARA IDENTIFICAR PATRONES GOF
+ La metodología para identificar patrones GOF (Gang of Four) en el desarrollo de software se basa en un conjunto de actividades. Primero, se establecen criterios para seleccionar los procesos de desarrollo más representativos que cumplen con un estricto control de calidad en las fases de requerimientos, diseño, desarrollo e implantación. Estos criterios incluyen la cantidad de desarrolladores involucrados, el uso de diseños UML, la criticidad del sistema, los costos del proyecto, el modelo de requisitos utilizado y el modelo de calidad adoptado.
+1. Cantidad de Desarrolladores: La cantidad de desarrolladores influye en la complejidad del proyecto, ya que un equipo numeroso requiere estrategias para optimizar el tiempo y los recursos. Se establece un mínimo de desarrolladores para cumplir con este criterio.
+2. Diseños UML - Unified Modeling Language (Schach, 2005): El uso de diseños UML es importante, ya que los patrones de diseño tienen su estructura definida a partir de los diagramas de clases UML. Por lo tanto, los proyectos deben emplear UML en la etapa de diseño.
+3. Criticidad de los Sistemas: La criticidad del sistema se refiere al nivel de necesidad de la aplicación para los usuarios. Se clasifica en niveles bajo, medio y alto, y los sistemas con niveles bajos se consideran irrelevantes para el análisis.
+4. Costos: Los costos del proyecto no garantizan el éxito, pero un mayor costo implica destinar más recursos humanos a procesos de calidad. Se establecen categorías de costo para la selección de proyectos.
+5. Modelo de Requisitos: El modelo de requisitos utilizado al inicio del proyecto es un factor importante, y se definen estándares como IEEE 830-1998 y una plantilla de requisitos de Amador Duran Toro.
+6. Modelo de Calidad: El modelo de calidad adoptado asegura que el proceso y el producto satisfagan las expectativas del cliente. Algunos modelos utilizados son CMMi, ISO 9001 e ISO 9126.
+### Selección de la muestra
+Una vez establecidos los criterios, se selecciona una muestra de proyectos de desarrollo que cumplan con dichos criterios. Para determinar el tamaño de la muestra, se aplica una metodología estadística que considera una población infinita o desconocida.
+### Aplicación de Criterios Propuestos
+En la aplicación de los criterios a la muestra, se descartan los proyectos que no cumplen con los valores establecidos para cada criterio. Los criterios se aplican secuencialmente, y se analiza la cantidad de desarrolladores, el uso de diseños UML, la criticidad del sistema, los costos, el modelo de requisitos y el modelo de calidad. Cada criterio elimina proyectos que no cumplen con sus requisitos, y al final se obtiene una muestra de proyectos que continúan para el análisis de identificación de patrones GOF.
+
+En resumen, la metodología se basa en establecer criterios para seleccionar procesos de desarrollo que cumplan con estándares de calidad en diferentes aspectos. La aplicación de estos criterios permite obtener una muestra de proyectos que serán analizados para identificar patrones GOF en el código fuente.
+
     
